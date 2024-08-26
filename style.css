@@ -1,0 +1,45 @@
+.hg{
+    display: flex;
+}
+.haga{
+    position: relative;
+
+}
+
+body{
+    background-color: darkred;
+}
+h4{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+label{
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.formulario{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor{
+    border: black 1px solid;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+.contenedor2{
+    border: black 1px solid;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border: 10px;
+}
+.contenedor3{
+    border: black 1px solid;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
